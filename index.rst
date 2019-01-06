@@ -1,21 +1,21 @@
 .. meta::
-   :description: The Dash Documentation offers information and guides on Dash, the open source peer-to-peer cryptocurrency with a strong focus on the payments industry. 
-   :keywords: dash, cryptocurrency, blockchain, documentation, guide, masternodes, mining, wallets, merchants, governance, instantsend, privatesend, x11, instant, private, secure, digital cash
+   :description: The Aywa Documentation offers information and guides on Aywa, the open source peer-to-peer cryptocurrency with a strong focus on the payments industry. 
+   :keywords: Aywa, cryptocurrency, blockchain, documentation, guide, masternodes, mining, wallets, merchants, governance, instantsend, privatesend, aywahash, instant, private, secure, digital cash
 
 ==================
-Dash Documentation
+Aywa Documentation
 ==================
 
-.. image:: img/dash_logo.png
+.. image:: img/aywa_logo.png
    :width: 60 %
    :align: center
 
-Dash is an open source peer-to-peer cryptocurrency with a strong focus
-on the payments industry. Dash offers a form of money that is portable,
+Auwa is an open source peer-to-peer cryptocurrency with a strong focus
+on the payments industry. Aywa offers a form of money that is portable,
 inexpensive, divisible and fast. It can be spent securely both online
 and in person with only minimal transaction fees. Based on the Bitcoin
-project, Dash aims to be the most user-friendly and scalable payments
-system in the world. In addition to Bitcoin's feature set, Dash
+project, Aywa aims to be the most user-friendly and scalable payments
+system in the world. In addition to Bitcoin's feature set, Aywa
 currently also offers instant transactions (:ref:`instantsend`), private
 transactions (:ref:`privatesend`) and operates a self-governing and
 self-funding model that enables the Dash network to pay individuals and
